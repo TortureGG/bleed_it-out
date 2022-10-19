@@ -1,0 +1,12 @@
+{
+    "name": "Karaleria #1 (Interactive)",
+    "description": "Interactive NFT dedicated to Karaleria. \n - Press the Left Mouse Button to Bleed it out, \n - Hold to Summon a Black hole \n - Release the Mouse button to Explode whole everything",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmS8EYfycz1httMz8hZEVdAi2HB7n5vFZM91hZmYXyoXwj/1/config.html",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS8EYfycz1httMz8hZEVdAi2HB7n5vFZM91hZmYXyoXwj/1/gif.gif",
+    "attributes": [
+        {
+            "trait_type": "CutenessLeria",
+            "value": 100
+        }
+    ]
+}
