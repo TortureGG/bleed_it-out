@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html height="100%" width="100%" style="height: 100%; width: 100%; cursor: pointer;" >  
+<body style="height: inherit; width: inherit;margin: 0px; overflow:hidden; border-top: 1px solid rgb(229, 232, 235);">
+
+    <div id="Loading" style = "opacity: 1; position: absolute; top: 45%; margin: 0; width: inherit; height: inherit; min-height: inherit; overflow:hidden;">
+        <h1 style="text-align: center; margin: 0; font-style: italic; font-family:Brush Script MT, Brush Script Std, cursive; ">Loading</h1>
+    </div>
+    <canvas id="canvasBack"  style = "position: absolute; width: inherit; height: inherit; min-height: inherit; overflow:hidden; "></canvas>
+    <canvas id="canvas"      style = "position: absolute; width: inherit; height: inherit; min-height: inherit; overflow:hidden; filter: grayscale(0);"></canvas>
+    <canvas id="canvasFront" style = "position: absolute; width: inherit; height: inherit; min-height: inherit; overflow:hidden; "></canvas>
+
+
+    <script>
+            var id = "2"
+            var links = []
+                links.push("./image.png")
+
+            var imageScale = []
+                imageScale.push( [1, 1] )
+
+
+            var imageOffset = []
+                imageOffset.push( [0, 0] )
+
+
+         
+            // console.log(imageOffset)
+    </script>
+
+    <script src="../MouseController.js"></script>
+    <script src="../Main.js"></script>
+
+</body>
+</html>
+
+
